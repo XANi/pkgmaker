@@ -1,0 +1,13 @@
+=pod
+
+=head1 pkgmaker - Git-based personal package repository builder
+
+       Work in progress
+       This will be automatic builder, fetching package data from git repo (with probably github-like "push" support), building packages and managing multiple (one repo per branch with multiple repository support) package repositories, reporting successful builds via mail/web interface/other.
+
+=head2 Planned features
+       * Git (possibly other) repo as "backend"
+       * Push (via github and git repo hooks) support
+       * Automatic verification of package "compability:
+
+=end
